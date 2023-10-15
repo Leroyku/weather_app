@@ -1,0 +1,20 @@
+.home {
+  flex-grow: 1;
+  display: flex;
+}
+
+._left {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 25%;
+  padding: 25px;
+}
+
+._right {
+  height: 100%;
+  width: 75%;
+  background-color: #eee;
+  padding: 25px;
+  // box-shadow: 10px 0 10px rgba(0, 0, 0, 0.1);
+}
