@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26aab4fe.css",
+    "main.js": "/static/js/main.ac10147d.js",
+    "static/media/pressure.png": "/static/media/pressure.4929fe2ea003c5478318.png",
+    "static/media/air.png": "/static/media/air.6dd57316b7707828f69a.png",
+    "static/media/visibility.png": "/static/media/visibility.942628147f27f8dfa19f.png",
+    "static/media/sunset.png": "/static/media/sunset.232d85431c76f641184b.png",
+    "static/media/humidity.png": "/static/media/humidity.6bf38f3bce3b8aef884e.png",
+    "static/media/sunrise.png": "/static/media/sunrise.3f0a51f8a250b60c0cc8.png",
+    "static/media/rainy_cloud.svg": "/static/media/rainy_cloud.f0a18c18bae7dd93dc868bcdb4b371c4.svg",
+    "static/media/snowy.svg": "/static/media/snowy.abf211998f21d5289adb043ca67087ad.svg",
+    "static/media/partly_cloudy.svg": "/static/media/partly_cloudy.b2e53053280396bfaa22d1c8501e3541.svg",
+    "static/media/sun.svg": "/static/media/sun.212e04206236caeb33f88e1c9dc942ad.svg",
+    "static/media/storm.svg": "/static/media/storm.58220cf8d60aac3af8af8d076cf52c1b.svg",
+    "static/media/rainy.svg": "/static/media/rainy.cd7c6f534c492c7101a55c23911cfa07.svg",
+    "static/media/cloudy.svg": "/static/media/cloudy.22e97e837933a900837fe9c3eb090439.svg",
+    "index.html": "/index.html",
+    "main.26aab4fe.css.map": "/static/css/main.26aab4fe.css.map",
+    "main.ac10147d.js.map": "/static/js/main.ac10147d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26aab4fe.css",
+    "static/js/main.ac10147d.js"
+  ]
+}
