@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weather_app/static/css/main.26aab4fe.css",
+    "main.js": "/weather_app/static/js/main.40200d88.js",
+    "static/media/pressure.png": "/weather_app/static/media/pressure.4929fe2ea003c5478318.png",
+    "static/media/air.png": "/weather_app/static/media/air.6dd57316b7707828f69a.png",
+    "static/media/visibility.png": "/weather_app/static/media/visibility.942628147f27f8dfa19f.png",
+    "static/media/sunset.png": "/weather_app/static/media/sunset.232d85431c76f641184b.png",
+    "static/media/humidity.png": "/weather_app/static/media/humidity.6bf38f3bce3b8aef884e.png",
+    "static/media/sunrise.png": "/weather_app/static/media/sunrise.3f0a51f8a250b60c0cc8.png",
+    "static/media/rainy_cloud.svg": "/weather_app/static/media/rainy_cloud.f0a18c18bae7dd93dc868bcdb4b371c4.svg",
+    "static/media/snowy.svg": "/weather_app/static/media/snowy.abf211998f21d5289adb043ca67087ad.svg",
+    "static/media/partly_cloudy.svg": "/weather_app/static/media/partly_cloudy.b2e53053280396bfaa22d1c8501e3541.svg",
+    "static/media/sun.svg": "/weather_app/static/media/sun.212e04206236caeb33f88e1c9dc942ad.svg",
+    "static/media/storm.svg": "/weather_app/static/media/storm.58220cf8d60aac3af8af8d076cf52c1b.svg",
+    "static/media/rainy.svg": "/weather_app/static/media/rainy.cd7c6f534c492c7101a55c23911cfa07.svg",
+    "static/media/cloudy.svg": "/weather_app/static/media/cloudy.22e97e837933a900837fe9c3eb090439.svg",
+    "index.html": "/weather_app/index.html",
+    "main.26aab4fe.css.map": "/weather_app/static/css/main.26aab4fe.css.map",
+    "main.40200d88.js.map": "/weather_app/static/js/main.40200d88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26aab4fe.css",
+    "static/js/main.40200d88.js"
+  ]
+}
